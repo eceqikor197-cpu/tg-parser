@@ -1,0 +1,13 @@
+# Секреты — никогда не коммитить!
+.env
+*.session
+
+# Скачанные файлы
+downloads/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
